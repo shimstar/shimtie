@@ -1,8 +1,13 @@
 # shimtie
-Shimstar en mode décentralisé, orienté xwing vs tie fighter.
 
-Jeu en mode solo, ou mode multi, orienté missions.
+AIm of this project is to create some thing near the famous XWing vs Tie Fighter.
 
-Le jeu contiendra X missions à faire de manière successive, pouvant se faire seul ou en solo.
-Un jeu principalement orienté dog fight.
+This game can be played in solo or multiplayer.
+
+Game will propose missions inside which the player will have objectives to reach.
+Player can be in same team, or in opposite team.
+
+Game will be oriented dog fight.
+
+
 
